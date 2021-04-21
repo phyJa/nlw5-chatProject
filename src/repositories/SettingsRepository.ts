@@ -5,3 +5,5 @@ import { Setting } from "../entities/Setting";
 class SettingsRespository extends Repository<Setting> {
 
 }
+
+export { SettingsRespository };
